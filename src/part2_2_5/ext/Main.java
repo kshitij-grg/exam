@@ -1,7 +1,7 @@
-package partB.ext;
+package part2_2_5.ext;
 
-import partB.Owner;
-import partB.Vehicle;
+import part2_2_5.Owner;
+import part2_2_5.Vehicle;
 
 public class Main {
     public static void main(String[] args) {

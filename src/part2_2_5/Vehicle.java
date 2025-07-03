@@ -1,4 +1,4 @@
-package partB;
+package part2_2_5;
 
 public class Vehicle {
     private String name;
